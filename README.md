@@ -16,3 +16,5 @@
 5. 设置三种难度，雷数为10、40和99.
 
 屏幕截图如下：
+
+![image](https://github.com/causeday/minesweeper/blob/main/screenshots/main.png)
