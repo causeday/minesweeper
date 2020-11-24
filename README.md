@@ -1,7 +1,7 @@
 # 扫雷/Minesweeper
 【English Version Below】
 
-这是我软件开发课的期中作业，用纯Java实现，界面实现部分使用awt。整个项目大约消耗1-2周课余时间，由我一人独立完成。
+这是我软件开发课的期中作业，用纯Java实现，界面实现部分使用awt。整个项目大约消耗1-2周课余时间（2020.3），由我一人独立完成。
 
 实现的游戏操作如下：
 
@@ -24,7 +24,7 @@
 
 This is my middle-term assignment of the course Software Development. The whole project is based on pure Java, and the UI part is based on awt. 
 
-The whole project took me around 1-2 weeks and all by myself. 
+The whole project took me around 1-2 weeks in March, 2020 and all work is done by myself. 
 
 Game functions implemented show below:
 
