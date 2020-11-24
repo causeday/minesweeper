@@ -15,7 +15,29 @@
 
 5. 设置三种难度，雷数为10、40和99.
 
-屏幕截图如下：
+游戏截图请拉到最下方。
+
+-----Chinese Version Above-----
+
+This is my middle-term assignment of the course Software Development. The whole project is based on pure Java, and the UI part is based on awt. 
+
+The whole project took me around 1-2 weeks.
+
+Game functions implemented show below:
+
+1. Basic minesweeper rules, like open a block by left mouse button and flag a block by right mouse button. 
+
+2. Once the user opens a mined block, the game will stop immediately and a dialog pops up to show the game duration, and all mined blocks will be marked as red. The same thing happens when the user passes the game successfully.
+
+3. If a non-mined block is opened and there is no mined block around it(3x3), all non-mined blocks will be opened until a mined block is reached.
+
+4. The user can start a new game anytime by pushing the button "Start a New Game".
+
+5. Three game levels: 10 mines, 40 mines and 99 mines.
+
+Screeenshots show below. 
+
+-----游戏截图/Screenshots-----
 
 ![image](https://github.com/causeday/minesweeper/blob/main/screenshots/main.png)
 
@@ -24,3 +46,4 @@
 ![image](https://github.com/causeday/minesweeper/blob/main/screenshots/game-fail.png)
 
 ![image](https://github.com/causeday/minesweeper/blob/main/screenshots/game-success.png)
+
