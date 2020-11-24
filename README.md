@@ -1,5 +1,5 @@
 # 扫雷/Minesweeper
------English Version Below-----
+【English Version Below】
 
 这是我软件开发课的期中作业，用纯Java实现，界面实现部分使用awt。整个项目大约消耗1-2周课余时间。
 
@@ -17,7 +17,10 @@
 
 游戏截图请拉到最下方。
 
------Chinese Version Above-----
+
+
+
+【Chinese Version Above】
 
 This is my middle-term assignment of the course Software Development. The whole project is based on pure Java, and the UI part is based on awt. 
 
@@ -37,7 +40,10 @@ Game functions implemented show below:
 
 Screeenshots show below. 
 
------游戏截图/Screenshots-----
+
+
+
+【游戏截图/Screenshots】
 
 ![image](https://github.com/causeday/minesweeper/blob/main/screenshots/main.png)
 
