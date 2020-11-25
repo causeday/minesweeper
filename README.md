@@ -32,7 +32,7 @@ Game functions implemented show below:
 
 2. Once the user opens a mined block, the game will stop immediately and a dialog pops up to show the game duration, and all mined blocks will be marked as red. The same thing happens when the user passes the game successfully.
 
-3. If a unmined block is opened and there is no mined block around it(3x3), all unmined blocks will be opened until a mined block is reached.
+3. If an unmined block is opened and there is no mined block around it(3x3), all unmined blocks will be opened until a mined block is reached.
 
 4. The user can start a new game anytime by pushing the button "Start a New Game".
 
